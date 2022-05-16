@@ -1,6 +1,6 @@
 import cv2
 import pickle
-#simulation
+
 rectW,rectH=107,48
 
 try:
