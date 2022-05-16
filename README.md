@@ -7,6 +7,3 @@
 2. For a step-by-step explanation, [youtube video](https://www.youtube.com/watch?v=y1M5dNkvCJc) can be referred. It explains the approach and also the high-level functionality of code.
 
 3. Ipython Notebook should be treated as the 'main' program which calls uses all the other modules.
-
-
-
