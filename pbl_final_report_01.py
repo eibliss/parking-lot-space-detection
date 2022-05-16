@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-#comment
+
 # # <center>Identifying empty parking spaces in a Car Parking</center>
 
 # ## Abstract
